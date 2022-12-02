@@ -10,7 +10,7 @@
   
   
   
-<img src="https://github.com/MahFelix/EstudoDevClub/blob/master/Easy-Shop.PNG" />
+<img src="https://raw.githubusercontent.com/MahFelix/EstudoDevClub/0efb8ec0b998b9025266f828ac06eb1d94c5c2d2/CSS/img/Easy-Shop.PNG" />
   
   
   
